@@ -2,6 +2,7 @@
 
 Experiment to see if Bootc could work on Linux Mint. It requires a lot of workarounds, though!
 
+<img width="2191" height="1239" alt="image" src="https://github.com/user-attachments/assets/c6a7e39e-785f-461b-9805-1afba710b8f1" />
 
 ## Building
 
